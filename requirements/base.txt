@@ -1,6 +1,6 @@
 mglib == 1.2.8
 mgclipboard >= 0.3.0
-django == 3.0.10
+django == 3.1.6
 celery==4.4.0
 django-taggit
 imapclient
